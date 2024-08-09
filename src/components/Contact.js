@@ -9,7 +9,7 @@ const Contact = () => {
       transition={{ duration: 1 }}
     >
       <h2>Contact</h2>
-      <p>Email: khant.bmruby@gmail.com</p>
+      <p>Email: kyilwinoo.work@gmail.com</p>
       <p>LinkedIn: https://www.linkedin.com/in/kokyi</p>
       <p>GitHub: https://github.com/kyilwinoo97</p>
     </motion.section>
